@@ -9,7 +9,7 @@ The test is for the Meetup - R-Ladies Tbilisi
 </p>
 
 
-[2020-06-16](https://github.com/ichisa/test-git/tree/main/Past%20Events)
+[2020-06-16](https://github.com/ichisa/test-git/blob/main/Past%20Events/pastevents.md)
 
 ## About us
 
