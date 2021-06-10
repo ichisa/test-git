@@ -1,9 +1,6 @@
----
-title: Markdown Test
----
 
 
-# I created this repo to test if everything was working ok
+# R Ladies chapter Website
 
 The test is for the Meetup - R-Ladies Tbilisi
 
