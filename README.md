@@ -4,3 +4,6 @@ The test is for the Meetup - R-Ladies Tbilisi
 
 ![](figures/R-LadiesGlobal.png) 
 
+## About us
+
+## Next activities
