@@ -1,8 +1,5 @@
 ---
 title: Markdown Test
-output:
-  html_document:
-    toc: true
 ---
 
 
@@ -11,7 +8,7 @@ output:
 The test is for the Meetup - R-Ladies Tbilisi
 
 <p align="center"> 
-<img src="figures/R-LadiesGlobal.png" width="200" align="center">
+[<img src="figures/R-LadiesGlobal.png" width="200" align="center">](https://github.com/rladies)
 </p>
 
 ## About us
