@@ -9,8 +9,12 @@ The test is for the Meetup - R-Ladies Tbilisi
 </p>
 
 
-[2020-06-16](link)
 
 ## About us
 
 ## Next activities
+
+## Past Events
+
+
+[2020-06-16](link)
